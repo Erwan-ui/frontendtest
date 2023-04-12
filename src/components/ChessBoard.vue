@@ -154,6 +154,12 @@ export default {
   }
 }
 
+@media screen and (min-width: 1200px) {
+  .chessboard {
+    width: 50%;
+  }
+}
+
 @media (max-width: 480px) {
   .chessboard {
     height: auto;
